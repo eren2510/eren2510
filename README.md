@@ -6,81 +6,80 @@
 />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=C41E3A&width=700&lines=Hello%2C+I'm+Eren;Full+Stack+Developer+;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=FFFFFF&width=700&lines=Hello%2C+I'm+Eren;Full+Stack+Developer+;Competitive+Programmer" />
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=eren2510&color=C41E3A&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/eren2510?color=C41E3A&style=for-the-badge&label=FOLLOWERS&logoColor=ffffff)
-![Stars](https://img.shields.io/github/stars/eren2510?color=C41E3A&style=for-the-badge&label=STARS)
-![Last Commit](https://img.shields.io/github/last-commit/eren2510/eren2510?color=C41E3A&style=for-the-badge&label=LAST+COMMIT)
+![Followers](https://img.shields.io/github/followers/eren2510?color=FFFFFF&style=for-the-badge&label=FOLLOWERS&logoColor=000000)
+![Stars](https://img.shields.io/github/stars/eren2510?color=FFFFFF&style=for-the-badge&label=STARS)
+![Last Commit](https://img.shields.io/github/last-commit/eren2510/eren2510?color=FFFFFF&style=for-the-badge&label=LAST+COMMIT)
 
 <br>
 
-[![⭐ Star this project](https://img.shields.io/github/stars/eren2510/comics-ai?style=for-the-badge&logo=github&logoColor=white&color=FFBF12&label=⭐%20Star%20Our%20Project)](https://github.com/anuragbhonsle/comics-ai)
+[![⭐ Star this project](https://img.shields.io/github/stars/eren2510/comics-ai?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FFBF12&label=⭐%20Star%20Our%20Project)](https://github.com/anuragbhonsle/comics-ai)
 
 ---
 ### Frontend
 
-![React](https://img.shields.io/badge/React-C41E3A?style=for-the-badge&logo=react&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/Next.js-C41E3A?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-C41E3A?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-C41E3A?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-C41E3A?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-C41E3A?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-C41E3A?style=for-the-badge&logo=css3&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/Vite-C41E3A?style=for-the-badge&logo=vite&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-FFFFFF?style=for-the-badge&logo=nextdotjs&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=000000)
+![Vite](https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=000000)
 
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-C41E3A?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![Express](https://img.shields.io/badge/Express-C41E3A?style=for-the-badge&logo=express&logoColor=ffffff)
-![NestJS](https://img.shields.io/badge/NestJS-C41E3A?style=for-the-badge&logo=nestjs&logoColor=ffffff)
-![Prisma](https://img.shields.io/badge/Prisma-C41E3A?style=for-the-badge&logo=prisma&logoColor=ffffff)
-![GraphQL](https://img.shields.io/badge/GraphQL-C41E3A?style=for-the-badge&logo=graphql&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=000000)
+![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000)
+![NestJS](https://img.shields.io/badge/NestJS-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=000000)
+![Prisma](https://img.shields.io/badge/Prisma-FFFFFF?style=for-the-badge&logo=prisma&logoColor=000000)
+![GraphQL](https://img.shields.io/badge/GraphQL-FFFFFF?style=for-the-badge&logo=graphql&logoColor=000000)
 
 
 ### Database & Infrastructure
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-C41E3A?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-C41E3A?style=for-the-badge&logo=mongodb&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/Redis-C41E3A?style=for-the-badge&logo=redis&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-C41E3A?style=for-the-badge&logo=docker&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/AWS-C41E3A?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=000000)
+![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=000000)
+![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=000000)
+![AWS](https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazonaws&logoColor=000000)
 
 
 ### Tools & Languages
 
-![Git](https://img.shields.io/badge/Git-C41E3A?style=for-the-badge&logo=git&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-C41E3A?style=for-the-badge&logo=github&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/Linux-C41E3A?style=for-the-badge&logo=linux&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-C41E3A?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-C41E3A?style=for-the-badge&logo=python&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-FFFFFF?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=000000)
+![Linux](https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000)
 
 
 ### Currently Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-C41E3A?style=for-the-badge&logo=pandas&logoColor=ffffff)
-![NumPy](https://img.shields.io/badge/NumPy-C41E3A?style=for-the-badge&logo=numpy&logoColor=ffffff)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-C41E3A?style=for-the-badge&logoColor=ffffff)
-![Power BI](https://img.shields.io/badge/Power_BI-C41E3A?style=for-the-badge&logo=powerbi&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=pandas&logoColor=000000)
+![NumPy](https://img.shields.io/badge/NumPy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=000000)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logoColor=000000)
+![Power BI](https://img.shields.io/badge/Power_BI-FFFFFF?style=for-the-badge&logo=powerbi&logoColor=000000)
 
 ---
 
 ### Activity Graph
 
-![Anurag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eren2510&bg_color=000000&color=C41E3A&line=C41E3A&point=C41E3A&area=true&area_color=f5d0d6&hide_border=true)
+![Anurag's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eren2510&bg_color=FFFFFF&color=000000&line=000000&point=000000&area=true&area_color=ffffff&hide_border=true)
 
 ---
 
 ### Featured Projects
 
-[![Comics AI](https://img.shields.io/badge/Comics_AI-C41E3A?style=for-the-badge&logoColor=ffffff)](https://comicsai.vercel.app/)
-[![Taskly](https://img.shields.io/badge/Taskly-C41E3A?style=for-the-badge&logoColor=ffffff)](https://taskly-chi-one.vercel.app/)
-[![Starune](https://img.shields.io/badge/Starune-C41E3A?style=for-the-badge&logoColor=ffffff)](https://starune.vercel.app)
-[![WeatherVerse](https://img.shields.io/badge/WeatherVerse-C41E3A?style=for-the-badge&logoColor=ffffff)](https://weather-verse-app.vercel.app/)
-[![AnimeVerse](https://img.shields.io/badge/AnimeVerse-C41E3A?style=for-the-badge&logoColor=ffffff)](https://anime-verse-xi.vercel.app)
-[![Eclipz](https://img.shields.io/badge/Eclipz-C41E3A?style=for-the-badge&logoColor=ffffff)](https://eclipz.vercel.app)
+[![Comics AI](https://img.shields.io/badge/Comics_AI-FFFFFF?style=for-the-badge&logoColor=000000)](https://comicsai.vercel.app/)
+[![Taskly](https://img.shields.io/badge/Taskly-FFFFFF?style=for-the-badge&logoColor=000000)](https://taskly-chi-one.vercel.app/)
+[![Starune](https://img.shields.io/badge/Starune-FFFFFF?style=for-the-badge&logoColor=000000)](https://starune.vercel.app)
+[![WeatherVerse](https://img.shields.io/badge/WeatherVerse-FFFFFF?style=for-the-badge&logoColor=000000)](https://weather-verse-app.vercel.app/)
+[![AnimeVerse](https://img.shields.io/badge/AnimeVerse-FFFFFF?style=for-the-badge&logoColor=000000)](https://anime-verse-xi.vercel.app)
+[![Eclipz](https://img.shields.io/badge/Eclipz-FFFFFF?style=for-the-badge&logoColor=000000)](https://eclipz.vercel.app)
 
 Descriptions:
 - **Comics AI** – An AI-powered webcomic recommendation app that helps readers find their next comic.
@@ -92,9 +91,9 @@ Descriptions:
 
 ### Featured Mini Projects
 
-[![Zareen](https://img.shields.io/badge/Zareen-C41E3A?style=for-the-badge&logoColor=ffffff)](https://zareeeen.vercel.app/)
-[![React Quiz](https://img.shields.io/badge/React_Quiz-C41E3A?style=for-the-badge&logoColor=ffffff)](https://reactjsquizapp.vercel.app/)
-[![Countdown Game](https://img.shields.io/badge/Countdown_Game-C41E3A?style=for-the-badge&logoColor=ffffff)](https://countdown-gamee.vercel.app)
+[![Zareen](https://img.shields.io/badge/Zareen-FFFFFF?style=for-the-badge&logoColor=000000)](https://zareeeen.vercel.app/)
+[![React Quiz](https://img.shields.io/badge/React_Quiz-FFFFFF?style=for-the-badge&logoColor=000000)](https://reactjsquizapp.vercel.app/)
+[![Countdown Game](https://img.shields.io/badge/Countdown_Game-FFFFFF?style=for-the-badge&logoColor=000000)](https://countdown-gamee.vercel.app)
 
 Descriptions:
 - **Zareen** – A small personalized project created to send a fun and memorable birthday greeting to a friend.
@@ -104,7 +103,7 @@ Descriptions:
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=C41E3A&width=700&lines=Feel+free+to+reach+out+for+opportunities!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=FFFFFF&width=700&lines=Feel+free+to+reach+out+for+opportunities!" />
 </a>
 
 <img 
