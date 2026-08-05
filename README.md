@@ -16,7 +16,7 @@
 
 <br>
 
-[![⭐ Star this project](https://img.shields.io/github/stars/eren2510/comics-ai?style=for-the-badge&logo=github&logoColor=white&color=FFBF12&label=⭐%20Star%20Our%20Project)](https://github.com/eren2510/comics-ai)
+[![⭐ Star this project](https://img.shields.io/github/stars/eren2510/comics-ai?style=for-the-badge&logo=github&logoColor=white&color=FFBF12&label=⭐%20Star%20Our%20Project)](https://github.com/anuragbhonsle/comics-ai)
 
 ---
 ### Frontend
