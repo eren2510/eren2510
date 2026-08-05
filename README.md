@@ -2,7 +2,7 @@
   width="100%" 
   height="200" 
   style="object-fit:cover;" 
-  src="https://i.pinimg.com/originals/13/ac/18/13ac185afaa4e393fc9be2829ec8be77.gif" 
+  src="https://i.pinimg.com/originals/a3/59/1d/a3591d117ec4cb9435ee2dd380a4f062.gif" 
 />
 
 <a href="https://git.io/typing-svg">
