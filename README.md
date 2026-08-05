@@ -14,6 +14,10 @@
 ![Stars](https://img.shields.io/github/stars/eren2510?color=C41E3A&style=for-the-badge&label=STARS)
 ![Last Commit](https://img.shields.io/github/last-commit/eren2510/eren2510?color=C41E3A&style=for-the-badge&label=LAST+COMMIT)
 
+<br>
+
+[![⭐ Star this project](https://img.shields.io/github/stars/eren2510/comics-ai?style=for-the-badge&logo=github&logoColor=white&color=FFBF12&label=⭐%20Star%20Our%20Project)](https://github.com/eren2510/comics-ai)
+
 ---
 ### Frontend
 
