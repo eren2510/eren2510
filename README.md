@@ -1,9 +1,10 @@
 <img 
   width="100%" 
-  height="200" 
+  height="10" 
   style="object-fit:cover;" 
-  src="https://i.pinimg.com/originals/a3/59/1d/a3591d117ec4cb9435ee2dd380a4f062.gif" 
+  src="https://i.pinimg.com/originals/13/ac/18/13ac185afaa4e393fc9be2829ec8be77.gif" 
 />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=FFFFFF&width=700&lines=Hello%2C+I'm+Eren;Full+Stack+Developer+;Competitive+Programmer" />
@@ -12,10 +13,6 @@
 ![Followers](https://img.shields.io/github/followers/eren2510?color=FFFFFF&style=for-the-badge&label=FOLLOWERS&logoColor=000000)
 ![Stars](https://img.shields.io/github/stars/eren2510?color=FFFFFF&style=for-the-badge&label=STARS)
 ![Last Commit](https://img.shields.io/github/last-commit/eren2510/eren2510?color=FFFFFF&style=for-the-badge&label=LAST+COMMIT)
-
-<br>
-
-[![⭐ Star this project](https://img.shields.io/github/stars/eren2510/comics-ai?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FFBF12&label=⭐%20Star%20Our%20Project)](https://github.com/anuragbhonsle/comics-ai)
 
 ---
 ### Frontend
