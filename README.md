@@ -7,7 +7,7 @@
 
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=FFFFFF&width=700&lines=Hello%2C+I'm+Eren;Full+Stack+Developer+;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=FFFFFF&width=700&lines=Hello%2C+I'm+Eren(Anurag);Full+Stack+Developer+;Competitive+Programmer" />
 </a>
 
 ![Followers](https://img.shields.io/github/followers/eren2510?color=FFFFFF&style=for-the-badge&label=FOLLOWERS&logoColor=000000)
