@@ -1,13 +1,5 @@
-<img 
-  width="100%" 
-  height="10" 
-  style="object-fit:cover;" 
-  src="https://i.pinimg.com/originals/13/ac/18/13ac185afaa4e393fc9be2829ec8be77.gif" 
-/>
-
-
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=FFFFFF&width=700&lines=Hello%2C+I'm+Eren(Anurag);Full+Stack+Developer+;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=25&duration=3500&pause=450&color=FFFFFF&width=700&lines=Hello%2C+I'm+Eren;Full+Stack+Developer+;Competitive+Programmer" />
 </a>
 
 ![Followers](https://img.shields.io/github/followers/eren2510?color=FFFFFF&style=for-the-badge&label=FOLLOWERS&logoColor=000000)
@@ -102,10 +94,3 @@ Descriptions:
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=20&duration=3000&pause=1000&color=FFFFFF&width=700&lines=Feel+free+to+reach+out+for+opportunities!" />
 </a>
-
-<img 
-  width="100%" 
-  height="10" 
-  style="object-fit:cover;" 
-  src="https://i.pinimg.com/originals/13/ac/18/13ac185afaa4e393fc9be2829ec8be77.gif" 
-/>
