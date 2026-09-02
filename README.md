@@ -17,13 +17,11 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-FFFFFF?style=for-the-badge&logo=tailwindcss&logoColor=000000)
 ![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=000000)
-![Vite](https://img.shields.io/badge/Vite-FFFFFF?style=for-the-badge&logo=vite&logoColor=000000)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=000000)
 ![Express](https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=000000)
-![NestJS](https://img.shields.io/badge/NestJS-FFFFFF?style=for-the-badge&logo=nestjs&logoColor=000000)
 ![Prisma](https://img.shields.io/badge/Prisma-FFFFFF?style=for-the-badge&logo=prisma&logoColor=000000)
 ![GraphQL](https://img.shields.io/badge/GraphQL-FFFFFF?style=for-the-badge&logo=graphql&logoColor=000000)
 
@@ -31,9 +29,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=000000)
 ![MongoDB](https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=mongodb&logoColor=000000)
-![Redis](https://img.shields.io/badge/Redis-FFFFFF?style=for-the-badge&logo=redis&logoColor=000000)
 ![Docker](https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=000000)
-![AWS](https://img.shields.io/badge/AWS-FFFFFF?style=for-the-badge&logo=amazonaws&logoColor=000000)
 
 ### Tools & Languages
 
